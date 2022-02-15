@@ -7,7 +7,7 @@ which makes it easier to move and distribute the script alone
 
 ## Tutorial
 1. Go to https://tb.rg-adguard.net/ and download your required Office Products (Microsoft Office/Office 2021 or Office 365 (Listed below are the ones supported))
-2. Download the "Activator".
+2. Download the "Activator" here: https://extremememes.github.io/OfficeActivate/office-activate.cmd
 3. Run the activator at your disposal
 
 
